@@ -23,7 +23,7 @@ header {
 nav a { font-size: 1.8rem; color: white; margin-left: 4rem; transition: 0.3s; }
 nav a:hover, nav a.active { color: #b74b4b; border-bottom: 2px solid #b74b4b; }
 
-section { min-height: 100vh; padding: 12rem 9% 5rem; }
+section { min-height: auto; padding: 12rem 9% 5rem; }
 
 .heading { text-align: center; font-size: 5rem; margin-bottom: 5rem; }
 span { color: #b74b4b; }
