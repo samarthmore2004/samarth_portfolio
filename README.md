@@ -28,3 +28,4 @@ The goal of this portfolio is to present my work, demonstrate my problem-solving
 ## Deployment
 
 This portfolio is deployed using **GitHub Pages**.
+link : https://samarthmore2004.github.io/samarth_portfolio/
